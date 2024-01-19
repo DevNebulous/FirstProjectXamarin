@@ -1,0 +1,15 @@
+C:\Users\l01860\Projetos\C#\FirstProjectQuantity\FirstProjectQuantity\FirstProjectQuantity\bin\Debug\netstandard2.0\FirstProjectQuantity.deps.json
+C:\Users\l01860\Projetos\C#\FirstProjectQuantity\FirstProjectQuantity\FirstProjectQuantity\bin\Debug\netstandard2.0\FirstProjectQuantity.dll
+C:\Users\l01860\Projetos\C#\FirstProjectQuantity\FirstProjectQuantity\FirstProjectQuantity\bin\Debug\netstandard2.0\ref\FirstProjectQuantity.dll
+C:\Users\l01860\Projetos\C#\FirstProjectQuantity\FirstProjectQuantity\FirstProjectQuantity\bin\Debug\netstandard2.0\FirstProjectQuantity.pdb
+C:\Users\l01860\Projetos\C#\FirstProjectQuantity\FirstProjectQuantity\FirstProjectQuantity\obj\Debug\netstandard2.0\FirstProjectQuantity.csproj.AssemblyReference.cache
+C:\Users\l01860\Projetos\C#\FirstProjectQuantity\FirstProjectQuantity\FirstProjectQuantity\obj\Debug\netstandard2.0\FirstProjectQuantity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l01860\Projetos\C#\FirstProjectQuantity\FirstProjectQuantity\FirstProjectQuantity\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\l01860\Projetos\C#\FirstProjectQuantity\FirstProjectQuantity\FirstProjectQuantity\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\l01860\Projetos\C#\FirstProjectQuantity\FirstProjectQuantity\FirstProjectQuantity\obj\Debug\netstandard2.0\FirstProjectQuantity.AssemblyInfoInputs.cache
+C:\Users\l01860\Projetos\C#\FirstProjectQuantity\FirstProjectQuantity\FirstProjectQuantity\obj\Debug\netstandard2.0\FirstProjectQuantity.AssemblyInfo.cs
+C:\Users\l01860\Projetos\C#\FirstProjectQuantity\FirstProjectQuantity\FirstProjectQuantity\obj\Debug\netstandard2.0\FirstProjectQuantity.csproj.CoreCompileInputs.cache
+C:\Users\l01860\Projetos\C#\FirstProjectQuantity\FirstProjectQuantity\FirstProjectQuantity\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\l01860\Projetos\C#\FirstProjectQuantity\FirstProjectQuantity\FirstProjectQuantity\obj\Debug\netstandard2.0\FirstProjectQuantity.dll
+C:\Users\l01860\Projetos\C#\FirstProjectQuantity\FirstProjectQuantity\FirstProjectQuantity\obj\Debug\netstandard2.0\refint\FirstProjectQuantity.dll
+C:\Users\l01860\Projetos\C#\FirstProjectQuantity\FirstProjectQuantity\FirstProjectQuantity\obj\Debug\netstandard2.0\FirstProjectQuantity.pdb

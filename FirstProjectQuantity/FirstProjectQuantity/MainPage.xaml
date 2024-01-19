@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FirstProjectQuantity.MainPage"
+             BackgroundColor="White">
+    <StackLayout VerticalOptions="Center" HorizontalOptions="Center" Spacing="50">
+        <Label Text="Quantidade" TextColor="Gray" FontSize="20" HorizontalOptions="Center"/>
+        <Label x:Name="number_quantidade" Text="" TextColor="Red" FontSize="48" HorizontalOptions="Center" />
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Spacing="40" >
+            <Button x:Name="button_add" Clicked="add_quantidade" Text="+" BackgroundColor="White" TextColor="Black" FontSize="48" BorderWidth="0.5" BorderColor="Gray" HeightRequest="90" WidthRequest="90" CornerRadius="20"/>
+            <Button x:Name="button_drop" Clicked="drop_quantidade" Text="-" BackgroundColor="White" TextColor="Black" FontSize="48" BorderWidth="0.5" BorderColor="Gray" HeightRequest="90" WidthRequest="90" CornerRadius="20"/>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

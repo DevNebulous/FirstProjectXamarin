@@ -1,0 +1,1 @@
+C:\Users\l01860\Projetos\C#\FirstProjectQuantity\FirstProjectQuantity\FirstProjectQuantity.UWP\FirstProjectQuantity.UWP.csproj;x64
